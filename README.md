@@ -10,4 +10,6 @@
 | Dank Memer related calculators, such as tax calculator, prestige calculator, daily bonus calculator and much more - no more hassle with creating Carl-bot tags. | ![Taxcalc showcase image](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/tc-showcase.jpg)<br>![Dailycalc showcase image](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/dc-showcase.jpg) |
 | Comprehensive Guides on Dank Memer - Excel in Dank Memer quickly: secret multi list, badges list and much more!                                                 | ![Guide showcase image](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/guide-showcase.jpg)                                                                                                                        |
 
-and much more!
+and much more! This isn't the inclusive list of Dank Assistant's feature. Run `d!help` in to view the full list!
+
+Still not convinced to invite Dank Assistant? 
