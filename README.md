@@ -13,3 +13,6 @@
 and much more! This isn't the inclusive list of Dank Assistant's feature. Run `d!help` in to view the full list!
 
 For server owners:
+| Feature                                                                       | Showcase                                                                                                                    |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Heist Event Manager - A better heist event experience for your server members | ![Heist Event Manager Showcase](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png) |
