@@ -12,4 +12,4 @@
 
 and much more! This isn't the inclusive list of Dank Assistant's feature. Run `d!help` in to view the full list!
 
-Still not convinced to invite Dank Assistant? 
+For server owners:
