@@ -14,9 +14,9 @@ and much more! Trusted by thousands of thousands of Dank Memer servers, such as 
 This isn't the inclusive list of Dank Assistant's feature. Run `d!help` in to view the full list!
 
 For server owners:
-| Feature                                                                       | Showcase                                                                                                                    |
+| Feature                                                                       | Showcase (Press to enlarge)                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Heist Event Manager - A better heist event experience for your server members | ![Heist Event Manager Showcase](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png) |
+| Heist Event Manager - A better heist event experience for your server members |  <a href="https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png" target="_blank">![Heist Event Manager Showcase](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png)</a> |
 
 Still not convinced? Hear what people say about us!
 
