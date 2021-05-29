@@ -17,3 +17,13 @@ For server owners:
 | Feature                                                                       | Showcase                                                                                                                    |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Heist Event Manager - A better heist event experience for your server members | ![Heist Event Manager Showcase](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png) |
+
+Still not convinced? Hear what people say about us!
+
+> I love this bot for all of its useful commands. It's got guides for everything, trade prices, and so much more. Back when it had blackjack  assist, it was the most unique bot on Discord, and even with it gone, still remains one of the best. This bot is highly recommended by  yours truly if you are looking to start your own Dank Memer community, or just want to compliment Dank Memer in your existing server.
+>
+> BeanJR#0001, server owner of [BeanJR's Community](https://discord.gg/nqJyXrcFWa).
+
+> An amazing bot, that has truly helped me come from rags to riches on my dank memer journey. 100% recommend to new dank memer users! thanks devs for making this bot!
+>
+> Kyro#4857, a Dank Memer player 
