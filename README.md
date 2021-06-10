@@ -9,14 +9,14 @@
 | Dank Memer related calculators, such as tax calculator, prestige calculator, daily bonus calculator and much more - no more hassle with creating Carl-bot tags. | <a href="https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/tc-showcase.jpg" target="_blank">![Taxcalc showcase image](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/tc-showcase.jpg)</a><br><a href="https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/dc-showcase.jpg" target="_blank">![Dailycalc showcase image](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/dc-showcase.jpg)</a> |
 | Comprehensive Guides on Dank Memer - Excel in Dank Memer quickly: secret multi list, badges list and much more!                                                 | <a href="https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/guide-showcase.jpg" target="_blank">![Guide showcase image](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/guide-showcase.jpg)</a>                                                                                                                        |
 
-and much more! Trusted by thousands of thousands of Dank Memer servers, such as [The Dank Kingdom](https://discord.gg/tdk), [THE TITANS](discord.gg/thetitans), [Rishab's Café](https://discord.gg/WvZmCdfbq4), [Fight Hub](https://discord.gg/fights) and more! (click to check out how they configurated Dank Assistant!)
-
-This isn't the inclusive list of Dank Assistant's feature. Run `d!help` in to view the full list!
+This isn't the inclusive list of Dank Assistant's feature. Invite Dank Assistant to your server and run `d!help` in to view the full list!
 
 For server owners:
 | Feature                                                                       | Showcase (Press to enlarge)                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Heist Event Manager - A better heist event experience for your server members |  <a href="https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png" target="_blank">![Heist Event Manager Showcase](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png)</a> |
+
+Trusted by thousands of thousands of Dank Memer servers, such as [The Dank Kingdom](https://discord.gg/tdk), [THE TITANS](discord.gg/thetitans), [Rishab's Café](https://discord.gg/WvZmCdfbq4), [Fight Hub](https://discord.gg/fights) and more! (click to check out how they configurated Dank Assistant!)
 
 Still not convinced? Hear what people say about us!
 
@@ -24,9 +24,8 @@ Still not convinced? Hear what people say about us!
 >
 > BeanJR#0001, server owner of [BeanJR's Community](https://discord.gg/nqJyXrcFWa).
 
-> An amazing bot, that has truly helped me come from rags to riches on my dank memer journey. 100% recommend to new dank memer users! thanks devs for making this bot!
->
-> Kyro#4857, a Dank Memer player 
+> An all around amazing bot. The dev team is super nice and open to suggestions and constantly working on improving the user experience. The reminders are super useful for grinding and there’s tons of informational guides that help make grinding more efficient. In my opinion, this bot is a must have for any Dank Memer server.
+> Dragoon#4130, server administrator of [The Dank Kingdom](https://discord.gg/tdk)
 
 <a style="display: block; height: 100px; width: 500px; background: #509624; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; border-radius: 20px; text-decoration: none;" href="https://discord.com/oauth2/authorize?client_id=815564870011453480&scope=bot%20applications.commands&permissions=347200&response_type=code&redirect_uri=https%3A%2F%2Fdankassistant.ga%2Fthanks">Invite Now!</a>
 
