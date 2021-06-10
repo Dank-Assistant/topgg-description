@@ -14,7 +14,7 @@ This isn't the inclusive list of Dank Assistant's feature. Invite Dank Assistant
 For server owners:
 | Feature                                                                       | Showcase (Press to enlarge)                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Heist Event Manager - A better heist event experience for your server members |  <a href="https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png" target="_blank">![Heist Event Manager Showcase](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heist-showcase.png)</a> |
+| Heist Event Manager - A better heist event experience for your server members<br>Capable of handling up to 15 custom early role unlock time, dealing with Dank Memer errors, police called in and much more. |  <a href="https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heistunlock.jpg" target="_blank">![Heist Event Manager Showcase](https://raw.githubusercontent.com/Dank-Assistant/topgg-description/main/heistunlock.jpg)</a> |
 
 Trusted by thousands of thousands of Dank Memer servers, such as [The Dank Kingdom](https://discord.gg/tdk), [THE TITANS](discord.gg/thetitans), [Rishab's Café](https://discord.gg/WvZmCdfbq4), [Fight Hub](https://discord.gg/fights) and more! (click to check out how they configurated Dank Assistant!)
 
